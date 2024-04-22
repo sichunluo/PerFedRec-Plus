@@ -13,6 +13,7 @@ This is the PyTorch implementation for PerFedRec++ model, an improved version of
 
 > **PerFedRec++: Enhancing Personalized Federated Recommendation with Self-Supervised Pre-Training.**  
 Sichun Luo, Yuanzhang Xiao, Xinyi Zhang, Yang Liu, Wenbo Ding, Linqi Song.
+*ACM Transactions on Intelligent Systems and Technology (TIST) 2024*
 
 
 ---
